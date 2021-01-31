@@ -1,0 +1,11 @@
+{
+  "reporter": "mocha-allure-reporter",
+  "reporterOptions": {
+    "targetDir": "mocha/mochawesome-report",
+    "overwrite": false,
+    "html": false,
+    "json": true,
+    "inline": true
+  },
+  "projectId": "8ma26k"
+}
